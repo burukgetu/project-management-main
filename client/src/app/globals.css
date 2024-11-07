@@ -19,7 +19,7 @@ body,
   @apply dark:bg-black;
 }
 
-/* TIMELINE STYLING
+TIMELINE STYLING
 .timeline ._3_ygE {
   @apply rounded-tl-md border border-r-0 border-[#e6e4e4] dark:border-stroke-dark;
 }
@@ -57,7 +57,7 @@ body,
 }
 .timeline ._29NTg {
   @apply dark:text-neutral-500;
-} */
+}
 
 ::-webkit-scrollbar {
   width: 0px;
